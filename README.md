@@ -2,17 +2,4 @@
 
 Basic html recipes project without css.
 
-used html tags:
-   anchor <a>
-   paragraph <p>
-   line break <br>
-   ordered list <ol>
-   unordered list <ul>
-   list item <li>
-   h1 <h1>
-   h2 <h2>
-   alt <alt>
-   src <src>
-   href <href>
-   image <img>
-
+used html tags : anchor, paragraph, line break, ordered list, unordered list, list item, h1, h2, alt, src, href and image.
