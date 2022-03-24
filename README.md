@@ -3,7 +3,6 @@
 Basic html recipes project without css.
 
 used html tags:
-<!--
     <a>
     <p>
     <br>
@@ -16,5 +15,4 @@ used html tags:
     <src>
     <href>
     <img>
-         -->
 
